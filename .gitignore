@@ -3,6 +3,9 @@
 *.a
 *.so
 
+#Local-only files
+.autoenv*
+
 # Folders
 _obj
 _test
